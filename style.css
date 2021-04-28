@@ -1,0 +1,50 @@
+header {
+ background-color: lightgray;
+}
+
+
+h1 {
+  color: black;
+  font-size: 3.5em;
+  text-align: center;
+}
+
+img {
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+
+div {
+  text-align: center;
+}
+
+#img-caption {
+  font-size: 1.15em;
+}
+
+p {
+  font-size: 1.5em;
+  font-family: "Times New Roman", "Time", serif;
+  font-style: normal;
+  padding-top: 20px;
+  padding-right: 25px;
+  padding-left: 25px;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+  font-size: 2em;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.5em;
+}
